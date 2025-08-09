@@ -1,0 +1,1 @@
+This repository is a local LLM lab using Ollama + Mistral 7B. It includes chaining, RAG, and simple evals.

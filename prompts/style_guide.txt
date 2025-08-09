@@ -1,0 +1,6 @@
+
+# Style Guide (Minimal)
+- Use short, clear sentences.
+- Prefer numbered lists for steps.
+- Include a one-sentence summary first when summarizing.
+- Avoid hedging; be direct.

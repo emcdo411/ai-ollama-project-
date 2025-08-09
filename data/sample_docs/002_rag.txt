@@ -1,0 +1,1 @@
+RAG stands for Retrieval Augmented Generation. It retrieves relevant context from a vector store before generation.
